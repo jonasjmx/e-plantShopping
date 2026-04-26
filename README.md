@@ -1,1 +1,3 @@
-# coding-project-template
+# E-plantShopping
+
+- Tienda de plantas con carrito de compras funcional.
